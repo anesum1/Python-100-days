@@ -1,5 +1,6 @@
 # Replit 100 Days of Code: Python
-
+## Day 5- If/Else
+Used if and else statements to write the script of this [Demon Slayer Character Creator](https://replit.com/@AnesuMasawi/day5100-days). I've  built my very own Akinator😎.
 
 ## Day 4- Custom storybook project
 Today I made this [custom storybook](https://replit.com/@AnesuMasawi/day4100-days) and added colour to some of the words, which was cool.
