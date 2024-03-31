@@ -2,7 +2,7 @@
 
 
 ## Day 4- Custom storybook project
-Today I made this [custom storybook](https://replit.com/@AnesuMasawi/day4100-days) and added colour <span style="color:blue">c</span><span style="color:red">o</span><span style="color:green">l</span><span style="color:orange">o</span><span style="color:purple">u</span><span style="color:yellow">r</span> to some of the words, which was cool.
+Today I made this [custom storybook](https://replit.com/@AnesuMasawi/day4100-days) and added colour to some of the words, which was cool.
 I must confess I was today years old when I discovered this is the same way custom books people buy online are generated 🤯.
 
 ## Day 3- Concatenate
