@@ -1,12 +1,14 @@
 # Replit 100 Days of Code: Python
 
+## Day- 7 Nesting
+I used my nesting skills to build a game to test if you're a true [TV Show fan](https://replit.com/@AnesuMasawi/day-7100-days). I also snuck in some input and variables for fun!
 
 ## Day 6- Elif
-What the elif did I build today? A hack proof [login system](https://replit.com/@AnesuMasawi/day6100-days)!
+What the elif did I build today? A hack-proof [login system](https://replit.com/@AnesuMasawi/day6100-days)!
 
 
 ## Day 5- If/Else
-  Used if and else statements to write the script of this [Demon Slayer Character Creator](https://replit.com/@AnesuMasawi/day5100-days). I've  built my very own Akinator😎.
+  I used if and else statements to write the script of this [Demon Slayer Character Creator](https://replit.com/@AnesuMasawi/day5100-days). I've  built my very own Akinator😎.
 
 ## Day 4- Custom storybook project
   Today I made this [custom storybook](https://replit.com/@AnesuMasawi/day4100-days) and added colour to some of the words, which was cool.
