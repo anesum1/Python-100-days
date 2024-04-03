@@ -1,4 +1,22 @@
 # Replit 100 Days of Code: Python
+## Day- 8 Wholesome Affirmation Generator Project
+I didn't expect this [Wholesome Affirmation Generator](https://replit.com/@AnesuMasawi/day-8-100-days) to take me almost an hour, but I got sucked into the process, and the time flew by. I also learnt two things that we haven't covered yet on the course, through browsing Replit forum:
++ First, making my code simpler with case-sensitive input, so instead of writing this:
+  ```python
+  if day == "Monday" or day == "monday"
+  ```
+   I wrote the input statement in such a way that even if the input was written with capital letters, it would convert all characters in the string to lowercase. This is how I wrote the statement:
+  ```python
+  day = input ("What day is it?").lower()
+  ```
+ + Secondly, using the ```in ``` operator to check if the value of the variable ```feeling``` matches either "good", "great", "awesome" or "fantastic", controlling the execution flow based on this condition.
+    ```python
+    if feeling in ("good", "great", "awesome", "fantastic"):
+    ```
+    Instead of writing it like this:
+   ```python
+   if feeling == "good" or  feeling == "great" or feeling == "awesome" or feeling == "fantastic":
+   ```
 
 ## Day- 7 Nesting
 I used my nesting skills to build a game to test if you're a true [TV Show fan](https://replit.com/@AnesuMasawi/day-7100-days). I also snuck in some input and variables for fun!
@@ -15,9 +33,6 @@ What the elif did I build today? A hack-proof [login system](https://replit.com/
   
   > FUN FACT:
   >I must confess I was today years old when I discovered this is the same way custom books people buy online are generated 🤯.
-
-
-
 
 ## Day 3- Concatenate
 Concatenating is like glueing a string (text) and variable together into a single sentence. Today I learned to do that by using ',' on my print statement to combine the string and variables into one sentence. Here is a [whacky recipe maker](https://replit.com/@AnesuMasawi/day-3100-days#main.py) I made that demonstrates the powers of concatenation.
