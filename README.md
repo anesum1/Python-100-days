@@ -1,4 +1,13 @@
 # Replit 100 Days of Code: Python
+
+
+## Day- 10 A bit of Math 😰
+Haha, today I did a bit of math and made a [tip calculator](https://replit.com/@AnesuMasawi/day-10100-days). I got a bit confused with this part of the script, ``` (1 + tip / 100), ``` and spent an embarrassing amount of time asking Chatgpt some questions. It's safe to say I understand it now: the ```1``` represents the original amount (100%), and the ```tip/100``` represents the additional percentage being added. I guess it is time I brush up on my maths skills 🫣.
+
+## Day- 9 Casting
+I learned about casting today, which involves converting one type of data to another and facilitating operations requiring consistent data formats. I created this [Generation Indentier](https://replit.com/@AnesuMasawi/day-9-100-days) which was fun.
+
+
 ## Day- 8 Wholesome Affirmation Generator Project
 I didn't expect this [Wholesome Affirmation Generator](https://replit.com/@AnesuMasawi/day-8-100-days) to take me almost an hour, but I got sucked into the process, and the time flew by. I also learnt two things that we haven't covered yet on the course, through browsing Replit forum:
 + First, making my code simpler with case-sensitive input, so instead of writing this:
