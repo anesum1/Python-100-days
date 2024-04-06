@@ -1,5 +1,7 @@
 # Replit 100 Days of Code: Python
 
+## Day- 11 Seconds in a year
+Today's challenge was writing a script that calculates [how many seconds there are in a year or leap year](https://replit.com/@AnesuMasawi/day-11100-days#main.py).
 
 ## Day- 10 A bit of Math 😰
 Haha, today I did a bit of math and made a [tip calculator](https://replit.com/@AnesuMasawi/day-10100-days). I got a bit confused with this part of the script, ``` (1 + tip / 100), ``` and spent an embarrassing amount of time asking Chatgpt some questions. It's safe to say I understand it now: the ```1``` represents the original amount (100%), and the ```tip/100``` represents the additional percentage being added. I guess it is time I brush up on my maths skills 🫣.
