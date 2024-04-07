@@ -1,5 +1,9 @@
 # Replit 100 Days of Code: Python
 
+
+## Day- 12 Debugging
+Debugged this [code](https://replit.com/@AnesuMasawi/day-12100-days#main.py) for today's challenge.
+
 ## Day- 11 Seconds in a year
 Today's challenge was writing a script that calculates [how many seconds there are in a year or leap year](https://replit.com/@AnesuMasawi/day-11100-days#main.py).
 
