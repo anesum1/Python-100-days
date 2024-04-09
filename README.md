@@ -1,20 +1,26 @@
 # Replit 100 Days of Code: Python
 
 
-## Day- 12 Debugging
+## Day 14- 🪨📄✂️ Game
+My very first [multiplayer game](https://replit.com/@AnesuMasawi/day-14100-days) !!
+
+## Day 13- Grade Generator Project
+Built a [Grade Generator](https://replit.com/@AnesuMasawi/day-13100-days) today.
+
+## Day 12- Debugging
 Debugged this [code](https://replit.com/@AnesuMasawi/day-12100-days#main.py) for today's challenge.
 
-## Day- 11 Seconds in a year
+## Day 11- Seconds in a year
 Today's challenge was writing a script that calculates [how many seconds there are in a year or leap year](https://replit.com/@AnesuMasawi/day-11100-days#main.py).
 
-## Day- 10 A bit of Math 😰
-Haha, today I did a bit of math and made a [tip calculator](https://replit.com/@AnesuMasawi/day-10100-days). I got a bit confused with this part of the script, ``` (1 + tip / 100), ``` and spent an embarrassing amount of time asking Chatgpt some questions. It's safe to say I understand it now: the ```1``` represents the original amount (100%), and the ```tip/100``` represents the additional percentage being added. I guess it is time I brush up on my maths skills 🫣.
+## Day 10- A bit of Math 😰
+I did some math today and made a [tip calculator](https://replit.com/@AnesuMasawi/day-10100-days). I got a bit confused with this part of the script, ``` (1 + tip / 100), ``` and spent an embarrassing amount of time asking Chatgpt some questions. It's safe to say I understand it now: the ```1``` represents the original amount (100%), and the ```tip/100``` represents the additional percentage being added. I guess it is time I brush up on my maths skills 🫣.
 
-## Day- 9 Casting
+## Day 9- Casting
 I learned about casting today, which involves converting one type of data to another and facilitating operations requiring consistent data formats. I created this [Generation Indentier](https://replit.com/@AnesuMasawi/day-9-100-days) which was fun.
 
 
-## Day- 8 Wholesome Affirmation Generator Project
+## Day 8- Wholesome Affirmation Generator Project
 I didn't expect this [Wholesome Affirmation Generator](https://replit.com/@AnesuMasawi/day-8-100-days) to take me almost an hour, but I got sucked into the process, and the time flew by. I also learnt two things that we haven't covered yet on the course, through browsing Replit forum:
 + First, making my code simpler with case-sensitive input, so instead of writing this:
   ```python
@@ -33,7 +39,7 @@ I didn't expect this [Wholesome Affirmation Generator](https://replit.com/@Anesu
    if feeling == "good" or  feeling == "great" or feeling == "awesome" or feeling == "fantastic":
    ```
 
-## Day- 7 Nesting
+## Day 7- Nesting
 I used my nesting skills to build a game to test if you're a true [TV Show fan](https://replit.com/@AnesuMasawi/day-7100-days). I also snuck in some input and variables for fun!
 
 ## Day 6- Elif
